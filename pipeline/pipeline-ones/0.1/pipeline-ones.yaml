@@ -6,7 +6,7 @@ metadata:
     app.kubernetes.io/version: "0.1"
   annotations:
     tekton.dev/pipelines.minVersion: "0.12.1"
-    tekton.dev/tags: pipeline
+    tekton.dev/tags: pipeline   ,  pipel1, pasdas asda 
     tekton.dev/displayName: "ansible tower cli"
 spec:
   description: >-
